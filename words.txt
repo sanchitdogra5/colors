@@ -1,0 +1,15 @@
+Vert
+Verte
+Gris
+Grise
+Brun
+Brune
+Noir
+Noire
+Bleu
+Bleue
+Rouge
+Jaune
+Rose
+Voilet
+Voilete
