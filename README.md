@@ -10,7 +10,7 @@
   <strong>A fun web application that generates random words!</strong>
   <br>
   <br>
-  <a href="https://yourdomain.com/demo">View Demo</a>
+  <a href="https://sanchitdogra5.github.io/colors">View Demo</a>
   ·
   <a href="#usage">Usage</a>
   ·
